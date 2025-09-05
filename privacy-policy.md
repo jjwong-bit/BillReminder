@@ -21,19 +21,13 @@ We respect your privacy and want to be transparent about how data is handled.
 
 ---
 
-## 3. Premium Plan
-- Users who subscribe to the paid plan enjoy an **ad-free experience** and access to premium features.  
-- Payments are processed securely through Google Play or Apple App Store — we do not handle or store payment details.
-
----
-
-## 4. Your Choices
+## 3. Your Choices
 - You can clear or delete app data anytime from your device settings.  
 - You may disable personalized ads through your device’s privacy settings.  
 - If you uninstall the app, all locally stored data is removed.
 
 ---
 
-## 5. Contact
+## 4. Contact
 If you have any questions or concerns, please contact:  
 **Email:** hello@beamingbulb.co
