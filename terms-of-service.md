@@ -13,10 +13,9 @@ By using Bill Reminder, you agree to the following terms:
 
 ---
 
-## 2. Free & Premium Plans
-- The app offers both **free** and **premium** versions.  
+## 2. Free Plans
+- The app offers **free** version only.  
 - The free version may include ads and affiliate links.  
-- The premium version (subscription) removes ads and unlocks additional features.
 
 ---
 
