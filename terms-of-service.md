@@ -20,26 +20,19 @@ By using Bill Reminder, you agree to the following terms:
 
 ---
 
-## 3. Subscriptions
-- Subscriptions are billed via Google Play or Apple App Store.  
-- You can cancel your subscription at any time via your app store settings.  
-- Refunds follow the policies of the respective app store.
-
----
-
-## 4. Disclaimer
+## 3. Disclaimer
 - Bill Reminder is provided “as is” without warranties of any kind.  
 - We do not guarantee that reminders will always fire or that the app will be error-free.  
 - You remain responsible for paying your bills on time.
 
 ---
 
-## 5. Changes to Terms
+## 4. Changes to Terms
 We may update these terms from time to time.  
 When changes are significant, we will notify users via app update notes or in-app messages.
 
 ---
 
-## 6. Contact
+## 5. Contact
 For questions or support:  
 **Email:** hello@beamingbulb.co
